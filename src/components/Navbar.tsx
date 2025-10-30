@@ -7,6 +7,8 @@ const navLinks = [
   { to: "/zodtutorial", label: "Zod Tutorial" },
   { to: "/zodtutorialtwo", label: "Zod Tutorial Two" },
   { to: "/zodtutorialthree", label: "Zod Tutorial Three" },
+  { to: "/zodformik", label: "Zod Formik" },
+  { to: "/zodformiktwo", label: "Zod Formik Two" },
   { to: "/random-url", label: "Random URL" },
 ];
 
